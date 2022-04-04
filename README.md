@@ -10,5 +10,4 @@
 3. Архитектура сверточной нейронной сети.
 ## Установка IDE PyCharm Professional
 Для выполнения лабораторной работы потребуется [PyCharm Professional](https://www.jetbrains.com/pycharm/download/#section=windows//).
-
 Студенческую лицензию можно получить, указав бауманскую почту.
