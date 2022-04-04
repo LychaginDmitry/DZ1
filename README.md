@@ -9,4 +9,4 @@
 2. Перенос обучения, дообучение.
 3. Архитектура сверточной нейронной сети.
 ## Установка IDE PyCharm Professional
-Для выполнения лабораторной работы потребуется PyCharm Professional https://www.jetbrains.com/pycharm/download/#section=windows/ "PyCharm Professional"
+Для выполнения лабораторной работы потребуется PyCharm Professional https://www.jetbrains.com/pycharm/download/#section=windows/ "PyCharm Professional" [пример](https://www.jetbrains.com/pycharm/download/#section=windows// "Необязательная подсказка")
