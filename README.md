@@ -32,4 +32,5 @@
 
 ![Image alt](C:\FotoGH/кенгуру_1.jpg)
 ![кенгуру_1](https://user-images.githubusercontent.com/43611343/161822950-1c63351a-5a3d-46bf-af0b-d2e2c183923a.jpg)
+![image](https://user-images.githubusercontent.com/43611343/161823042-4ee189e4-be0b-4d78-af19-4e84e807b67d.png)
 
