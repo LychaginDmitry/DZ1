@@ -50,7 +50,9 @@
 ![image](https://user-images.githubusercontent.com/43611343/163047087-974cc6b0-9691-44dc-a750-980ffe85600a.png)
 #### Шаг 4
 Добавить Python файл views.py в ту же папку, где был файл setting.py.
+Здесь будет ссылка на файл...
 ![image](https://user-images.githubusercontent.com/43611343/163046056-3f32d871-6e00-4078-9b5d-b7080d447999.png)
+
 #### Шаг 5
 В файле urls.py требуется заменить содержимое на следующий блок кода:
 ![image](https://user-images.githubusercontent.com/43611343/163046909-3bc3a579-6c50-4897-b333-34e8702642b0.png)
@@ -58,8 +60,8 @@
 Установить следующие библиотеки: onnx, onnxruntime, numpy, pillow.
 Пример установки одной библиотеки:
 ![image](https://user-images.githubusercontent.com/43611343/163048370-a731e483-60ed-4db4-89a3-e57f788b5fbd.png)
-#### Шаг 6
-
-
+#### Шаг 7
+В папку templates добавить 2 файла: index.html и scorepage.html.
+Здест будут ссылки на файлы...
 
 
