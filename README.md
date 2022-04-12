@@ -56,6 +56,11 @@
 
 ![image](https://user-images.githubusercontent.com/43611343/163046056-3f32d871-6e00-4078-9b5d-b7080d447999.png)
 
+##### Шаг 4.1
+В файле views.py изменить классы по Вашей тематике.
+
+![image](https://user-images.githubusercontent.com/43611343/163056856-37a6f80f-3068-401e-9c7e-873a24ed7669.png)
+
 #### Шаг 5
 В файле urls.py требуется заменить содержимое на следующий блок кода:
 
@@ -75,5 +80,6 @@
 ![image](https://user-images.githubusercontent.com/43611343/163056427-3ffb16f7-fb96-41ed-9a86-bede0cf7e46b.png)
 #### Шаг 10
 Перейти в раздел "Оценка модели" и загрузить изображение.
+
 ![image](https://user-images.githubusercontent.com/43611343/163056531-0d7ec003-8204-4857-b736-cd2c67e59a1d.png)
 
