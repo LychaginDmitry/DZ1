@@ -47,32 +47,13 @@
 ![image](https://user-images.githubusercontent.com/43611343/163043826-77e0dbb8-c1ec-4634-992e-554b908bfaea.png)
 #### Шаг 3
 В файл setting.py требуется добавить пути к ранее созданной папке media. В самом конце необходимо добавить следующий блок код:
-
-import os
-
-MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'media')
+![image](https://user-images.githubusercontent.com/43611343/163047087-974cc6b0-9691-44dc-a750-980ffe85600a.png)
 #### Шаг 4
 Создать Python файл views.py в той же папке, где был файл setting.py.
 ![image](https://user-images.githubusercontent.com/43611343/163046056-3f32d871-6e00-4078-9b5d-b7080d447999.png)
 #### Шаг 5
 В файле urls.py требуется заменить содержимое на следующий блок кода:
-
-from django.contrib import admin
-from django.urls import path
-from django.conf.urls.static import static
-from django.conf import settings
-from . import views
-urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', views.index, name='Home'),
-    path('uploadModel', views.uploadModel, name='uploadModel'),
-    path('scoreImagePage', views.scoreImagePage, name='scoreImagePage'),
-    path('predictImage', views.predictImage, name='predictImage'),
-]
-
-urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-
+![image](https://user-images.githubusercontent.com/43611343/163046909-3bc3a579-6c50-4897-b333-34e8702642b0.png)
 
 
 
