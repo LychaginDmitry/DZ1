@@ -69,4 +69,11 @@
 В папку templates добавить 2 файла: index.html и scorepage.html.
 Здесь будут ссылки на файлы...
 #### Шаг 8
-Запустить проект.
+Запустить проект, выполнив в терминале PyCharm следующую команду: "python3 manage.py runserver".
+#### Шаг 9
+Загрузить модель ONNX.
+![image](https://user-images.githubusercontent.com/43611343/163056427-3ffb16f7-fb96-41ed-9a86-bede0cf7e46b.png)
+#### Шаг 10
+Перейти в раздел "Оценка модели" и загрузить изображение.
+![image](https://user-images.githubusercontent.com/43611343/163056531-0d7ec003-8204-4857-b736-cd2c67e59a1d.png)
+
