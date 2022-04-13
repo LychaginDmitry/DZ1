@@ -62,6 +62,7 @@
 
 ![image](https://user-images.githubusercontent.com/43611343/163056856-37a6f80f-3068-401e-9c7e-873a24ed7669.png)
 
+![image](https://user-images.githubusercontent.com/43611343/163248523-05e05fb6-8622-4747-9a54-04864572862f.png)
 #### Шаг 5
 В файле urls.py требуется заменить содержимое на следующий блок кода:
 
