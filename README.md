@@ -64,7 +64,7 @@
 #### Шаг 5
 В файле urls.py требуется заменить содержимое на следующий блок кода:
 
-![image](https://user-images.githubusercontent.com/43611343/163046909-3bc3a579-6c50-4897-b333-34e8702642b0.png)
+![image](https://user-images.githubusercontent.com/43611343/163246561-e328ca8a-d557-42d1-8f84-72967f3197a3.png)
 #### Шаг 6
 Установить следующие библиотеки: onnx, onnxruntime, numpy, pillow.
 Пример установки одной библиотеки:
