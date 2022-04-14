@@ -84,3 +84,6 @@
 
 ![image](https://user-images.githubusercontent.com/43611343/163248372-bc89f118-d947-43f2-b8e0-ceee11faf5c7.png)
 
+"```python
+sess = onnxruntime.InferenceSession(r'C:\DZ1\media\models\cifar100.onnx') #<-Здесь требуется указать свой путь к модели
+```"
