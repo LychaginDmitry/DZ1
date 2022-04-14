@@ -83,15 +83,3 @@
 Загрузить изображение и нажать на кнопку "submit".
 
 ![image](https://user-images.githubusercontent.com/43611343/163248372-bc89f118-d947-43f2-b8e0-ceee11faf5c7.png)
-
-"```python
-def predictImage(request):
-    fileObj = request.FILES['filePath']
-    fs = FileSystemStorage()
-    filePathName = fs.save('images/'+fileObj.name,fileObj)
-    filePathName = fs.url(filePathName)
-    modelName = request.POST.get('modelName')
-    scorePrediction = predictImageData(modelName, '.'+filePathName)
-    context = {'scorePrediction': scorePrediction}
-    return render(request, 'scorepage.html', context)
-```"
